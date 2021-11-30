@@ -140,3 +140,19 @@
 .tower-2-3 {
 };
 
+/* Wave 11 */
+
+.tower-group-1 {
+    display: flex;
+    Justify-content: space-between;
+}
+.tower-1-1 {
+    align-self: flex-end;
+}
+.tower-1-2 {
+}
+.tower-1-3 {
+    align-self: flex-end;
+}
+.tower-1-4 {
+};
