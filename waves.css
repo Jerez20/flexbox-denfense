@@ -68,3 +68,11 @@
     align-items:center;
 };
 
+/* Wave 6 */
+
+.tower-group-1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
